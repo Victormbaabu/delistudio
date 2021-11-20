@@ -3,7 +3,7 @@ body {
     font-family: "Play", sans-serif;
   }
   
-  /*home container styling*/
+  /*home section styling*/
   #home-container {
     background-image: url(../assets/backgrounds/h_img.jpg);
     background-attachment: scroll;
@@ -25,4 +25,35 @@ body {
   #mouse-click {
     padding-top: 6rem;
     padding-bottom: 2rem;
+  } 
+
+  /*about-us section styling*/
+  #about-us-container {
+      text-align:center;
+      background-color: white;
   }
+  #about-us-header {
+      padding-top: 3rem;
+  }
+  #about-us-description {
+      padding-bottom: 3rem;
+      line-height: 3rem;
+  }
+
+  /*service section styling*/
+  #service-container{
+      background-image: url(../assets/backgrounds/s_image.jpg);
+      background-attachment: scroll;
+      background-repeat: no-repeat ;
+      background-size: cover;
+      text-align: center;
+      color: white;
+  }
+  #service-header{
+      padding-top: 6rem;
+  }
+  #service-description{
+      padding-bottom: 6rem;
+      line-height: 4rem;
+  }
+  /*what we do portfolio section styling*/
