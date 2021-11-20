@@ -59,14 +59,14 @@ body {
   /*what we do portfolio section styling*/
   #whatwedo-header{
       text-align: center;
-      padding-top: 2rem;
+      padding-top: 1rem;
   }
   #what-we-do{
       display: flex;
       flex-direction: row;
       justify-items: stretch;
       justify-content: space-between;
-      padding-top: 2rem;
+      padding-top: 1rem;
   }
   .clickable-images {
     cursor: pointer;
@@ -232,4 +232,22 @@ body {
     background: transparent;
     border: 1px solid white;
     color: white;
+  }
+  /* footer section styling*/
+  #footer-container {
+    text-align: center;
+  }
+  
+  #social-media-icons {
+    padding-top: 4rem;
+  }
+  
+  a {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  
+  #delani-footer {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
   }
