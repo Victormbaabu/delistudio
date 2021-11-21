@@ -1,4 +1,4 @@
-$(documwnt).ready(function(){
+$(document).ready(function(){
     //frontend
 
     //what we do icons control
