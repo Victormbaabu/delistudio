@@ -15,7 +15,7 @@ body {
   }
   
   #logo {
-    padding-top: 11rem;
+    padding-top: 10rem;
   }
   
   #welcome-title {
@@ -59,14 +59,14 @@ body {
   /*what we do portfolio section styling*/
   #whatwedo-header{
       text-align: center;
-      padding-top: 1rem;
+      padding-top: 2rem;
   }
   #what-we-do{
       display: flex;
       flex-direction: row;
       justify-items: stretch;
       justify-content: space-between;
-      padding-top: 1rem;
+      padding-top: 2rem;
   }
   .clickable-images {
     cursor: pointer;
